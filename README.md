@@ -7,6 +7,7 @@ This is the MATLAB code of the local mean decomposition using empirical optimal 
 ## Citation
 If this code is useful for your work, please cite our paper.
 
+```
 @article{jia2019empirical,
   title={The empirical optimal envelope and its application to local mean decomposition},
   author={Jia, Linshan and Zhang, Qing and Zheng, Xiang and Yao, Pulin and He, Xiaogao and Wei, Xiaohan},
@@ -16,3 +17,4 @@ If this code is useful for your work, please cite our paper.
   year={2019},
   publisher={Elsevier}
 }
+```
