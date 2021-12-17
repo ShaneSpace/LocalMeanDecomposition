@@ -1,6 +1,6 @@
 # LocalMeanDecomposition
 The MATLAB code of the local mean decomposition using empirical optimal envelope
-
+基于经验最优包络的 局部均值分解方法（LMD） 源代码
 
 This is the MATLAB code of the local mean decomposition using empirical optimal envelope in paper [The empirical optimal envelope and its application to local mean decomposition](https://www.sciencedirect.com/science/article/pii/S1051200418308133). This code is writen on MATLAB 2018 and it can work well on MATLAB 2019-2021.
 
